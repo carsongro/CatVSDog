@@ -11,6 +11,7 @@
 		B83383592B1D7FFD00A2C456 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B83383582B1D7FFD00A2C456 /* ContentView.swift */; };
 		B833835B2B1D7FFE00A2C456 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B833835A2B1D7FFE00A2C456 /* Assets.xcassets */; };
 		B833835F2B1D7FFE00A2C456 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B833835E2B1D7FFE00A2C456 /* Preview Assets.xcassets */; };
+		B83383662B1D817D00A2C456 /* Leaderboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B83383652B1D817D00A2C456 /* Leaderboard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		B833835A2B1D7FFE00A2C456 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B833835C2B1D7FFE00A2C456 /* CatVSDog.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CatVSDog.entitlements; sourceTree = "<group>"; };
 		B833835E2B1D7FFE00A2C456 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B83383652B1D817D00A2C456 /* Leaderboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Leaderboard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				B83383562B1D7FFD00A2C456 /* CatVSDogApp.swift */,
 				B83383582B1D7FFD00A2C456 /* ContentView.swift */,
+				B83383652B1D817D00A2C456 /* Leaderboard.swift */,
 				B833835A2B1D7FFE00A2C456 /* Assets.xcassets */,
 				B833835C2B1D7FFE00A2C456 /* CatVSDog.entitlements */,
 				B833835D2B1D7FFE00A2C456 /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B83383592B1D7FFD00A2C456 /* ContentView.swift in Sources */,
+				B83383662B1D817D00A2C456 /* Leaderboard.swift in Sources */,
 				B83383572B1D7FFD00A2C456 /* CatVSDogApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
